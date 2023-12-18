@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RamkishorAwsDemoApplication {
+public class AwsSpringDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RamkishorAwsDemoApplication.class, args);
+		SpringApplication.run(AwsSpringDemoApplication.class, args);
 	}
 
 }
